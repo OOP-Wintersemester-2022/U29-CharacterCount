@@ -1,0 +1,12 @@
+{
+    "title": "U29 SpeedDialApp",
+    "abstract": "Eine kleines Programm mit dem Sie Anzahl aller einzelnen Zeichen in einem String zählen sollen",
+    "hasStarterCode": false,
+    "hasSolutionCode": true,
+    "solutionComment": "Lösungsvorschlag zur Aufgabenstellung",
+    "simpleSolutionComment": "",
+    "advancedSolutionComment": "",
+    "hasSimpleSolutionCode": false,
+    "hasAdvancedSolutionCode": false,
+    "solutionAvailableOn": "2022-01-17"
+}
